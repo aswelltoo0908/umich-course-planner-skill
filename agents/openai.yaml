@@ -1,0 +1,4 @@
+interface:
+  display_name: "UMich 选课规划"
+  short_description: "匿名化完成 UMich 课程检索、教授比较、冲突检测与学位进度规划"
+  default_prompt: "请根据我的专业要求和候选课程，匿名化完成 UMich 选课规划。"
